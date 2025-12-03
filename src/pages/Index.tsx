@@ -12,11 +12,11 @@ const Index = () => {
   const [selectedImage, setSelectedImage] = useState<NailDesign | null>(null);
 
   const nailDesigns: NailDesign[] = [
-    { id: 1, image: 'https://images.unsplash.com/photo-1604654894610-df63bc536371?w=800&q=80', alt: 'Минималистичный дизайн с nude оттенками' },
-    { id: 2, image: 'https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=800&q=80', alt: 'Элегантный французский маникюр' },
-    { id: 3, image: 'https://images.unsplash.com/photo-1632345031435-8727f6897d53?w=800&q=80', alt: 'Пастельный дизайн с декором' },
-    { id: 4, image: 'https://images.unsplash.com/photo-1519014816548-bf5fe059798b?w=800&q=80', alt: 'Красный глянцевый маникюр' },
-    { id: 5, image: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&q=80', alt: 'Нежный градиент' },
+    { id: 1, image: 'https://cdn.poehali.dev/files/f599268d-5521-47ef-ae0f-3c7e7b553358.jpeg', alt: 'Дизайн с надписями и декором' },
+    { id: 2, image: 'https://cdn.poehali.dev/files/96c9ee4f-f123-4e6b-8a64-53f32ef8b5e6.jpeg', alt: 'Серебряный хромированный дизайн' },
+    { id: 3, image: 'https://cdn.poehali.dev/files/3b3fbda8-2a6f-49b5-8235-47d3fb292756.jpeg', alt: 'Серебряные узоры со стразами' },
+    { id: 4, image: 'https://cdn.poehali.dev/files/2a191605-6f98-44af-b1d7-88b5963dab8b.jpeg', alt: 'Лавандовый перламутр с декором' },
+    { id: 5, image: 'https://cdn.poehali.dev/files/e31a5668-f32b-461f-b3b2-8918a13e7a1e.jpeg', alt: 'Нежный розовый с жемчугом' },
     { id: 6, image: 'https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=800&q=80', alt: 'Геометрический узор' },
     { id: 7, image: 'https://images.unsplash.com/photo-1604654894609-b6e5e4c0e4e5?w=800&q=80', alt: 'Матовый nude' },
     { id: 8, image: 'https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80', alt: 'Блестящий акцент' },
