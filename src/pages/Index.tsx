@@ -26,6 +26,11 @@ const Index = () => {
     { id: 12, image: 'https://cdn.poehali.dev/files/943669b1-6a09-4caa-beaf-14c82b72ee2b.jpeg', alt: 'Нежный розовый с блёстками' },
     { id: 13, image: 'https://cdn.poehali.dev/files/62ee46cb-4406-4506-8566-7b01ab062606.jpeg', alt: 'Чёрный и розовый контраст' },
     { id: 14, image: 'https://cdn.poehali.dev/files/e1a0fc54-f09d-4cb4-8af7-8a0198e763dd.jpeg', alt: 'Голубой дизайн с объёмным декором' },
+    { id: 15, image: 'https://cdn.poehali.dev/files/9aa86815-8bf9-4590-99c7-3bfc4c7f0e20.jpeg', alt: 'Молочный оттенок с объёмным декором' },
+    { id: 16, image: 'https://cdn.poehali.dev/files/2ab4a48a-bee1-4663-8dcf-aa764bf92bc1.jpeg', alt: 'Nude с объёмными узорами и жемчугом' },
+    { id: 17, image: 'https://cdn.poehali.dev/files/e2763a5b-d87f-403d-a2c4-525492295d76.jpeg', alt: 'Белый френч с серебряными надписями' },
+    { id: 18, image: 'https://cdn.poehali.dev/files/3e0b7bea-ecb1-4dbf-85cf-b400d246daad.jpeg', alt: 'Молочный градиент со звёздами' },
+    { id: 19, image: 'https://cdn.poehali.dev/files/8dfd4a79-6db8-41a6-987a-1e21e0f112d9.jpeg', alt: 'Белый френч с серебряными узорами' },
   ];
 
   return (
