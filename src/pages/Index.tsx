@@ -21,6 +21,11 @@ const Index = () => {
     { id: 7, image: 'https://cdn.poehali.dev/files/c643e846-ac8c-4ee9-a724-baac1f8ba28a.jpeg', alt: 'Белый френч с цветочным декором' },
     { id: 8, image: 'https://cdn.poehali.dev/files/8f99b6a5-2dcc-4fe7-921f-ed6e7d04a25e.jpeg', alt: 'Серебряные абстрактные узоры' },
     { id: 9, image: 'https://cdn.poehali.dev/files/623438da-a130-4ed7-8259-bce62278e618.png', alt: 'Хромированный дизайн с акцентами' },
+    { id: 10, image: 'https://cdn.poehali.dev/files/bb12620e-87f8-4cc8-82be-c64a71dbda75.jpeg', alt: 'Белый френч с металлическими шипами' },
+    { id: 11, image: 'https://cdn.poehali.dev/files/05dbb95c-63c1-442e-b126-24cf864bd33e.jpeg', alt: 'Розовый омбре с геометрией' },
+    { id: 12, image: 'https://cdn.poehali.dev/files/943669b1-6a09-4caa-beaf-14c82b72ee2b.jpeg', alt: 'Нежный розовый с блёстками' },
+    { id: 13, image: 'https://cdn.poehali.dev/files/62ee46cb-4406-4506-8566-7b01ab062606.jpeg', alt: 'Чёрный и розовый контраст' },
+    { id: 14, image: 'https://cdn.poehali.dev/files/e1a0fc54-f09d-4cb4-8af7-8a0198e763dd.jpeg', alt: 'Голубой дизайн с объёмным декором' },
   ];
 
   return (
